@@ -1,16 +1,16 @@
-#Portfólio
+# Portfólio
 
 Olá, Bem vindo ao meu projeto de portfólio.
 
 <img src="img/README.png">
 
-##Ferramentas utilizadas:
+## Ferramentas utilizadas:
 
   - HTML
   - CSS
   - Flexbox
 
-##Feito por:
+## Feito por:
 
   João Carlos
 
